@@ -1,2 +1,3 @@
 # Conformal-Quantile-Predictor
-Project experimenting on Coformal Prediciton, Conformalized Quantile Regression and Kalman Filtering for prediction and forecasting with uncertainty guarantees. 
+
+In this project I will be exploring the intricacies of Conformal Prediciton, Conformalised Quantile Regression and Kalman Filtering for prediction and forecasting with uncertainty guarantees. 
